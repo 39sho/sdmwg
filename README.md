@@ -1,8 +1,20 @@
+## インストール
+
 ```
-npm install
+npm i
+```
+
+## 起動
+
+以下 2 つは同時に
+
+```
 npm run dev
 ```
 
 ```
-open http://localhost:3000
+npx tutun@latest tunnel
 ```
+
+tunnel の url にアクセス
+ルートにアクセスするとメカトロウィーゴに書くプログラムを表示します
