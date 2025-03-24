@@ -1,5 +1,5 @@
 {
-  "name": "sdmw",
+  "name": "sdmwg",
   "type": "module",
   "scripts": {
     "dev": "tsx watch src/index.ts",
