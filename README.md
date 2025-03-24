@@ -1,4 +1,4 @@
-# SEMWG Server Driven メカトロウィーゴ
+# SDMWG Server Driven メカトロウィーゴ
 
 ## インストール
 
@@ -15,8 +15,9 @@ npm run dev
 ```
 
 ```
-npx tutun@latest tunnel
+npx untun@latest tunnel
 ```
 
 tunnel の url にアクセス
+
 ルートにアクセスするとメカトロウィーゴに書くプログラムを表示します
